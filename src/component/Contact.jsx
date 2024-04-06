@@ -17,7 +17,7 @@ const Contact = () => {
               Name
             </label>
             <input 
-              className="border-2 rounded-lg p-3 flex bg-black border-gray-300"
+              className="border-2 rounded-lg p-3 flex text-white bg-black border-gray-300"
               type="text"
               name="name"
               placeholder="your name"
@@ -28,7 +28,7 @@ const Contact = () => {
               Phone Number
             </label>
             <input
-              className="border-2 rounded-lg p-3 flex v bg-black border-gray-300"
+              className="border-2 rounded-lg p-3 flex v text-white bg-black border-gray-300"
               type="text"
               name="phone"
               placeholder="phone no: "
@@ -40,7 +40,7 @@ const Contact = () => {
             Email
           </label>
           <input
-            className="border-2 rounded-lg p-3 flex bg-black border-gray-300"
+            className="border-2 rounded-lg p-3 flex text-white bg-black border-gray-300"
             type="email"
             name="name"
             placeholder="your Email"
@@ -51,7 +51,7 @@ const Contact = () => {
             Subject
           </label>
           <input
-            className="border-2 rounded-lg p-3 flex bg-black border-gray-300"
+            className="border-2 rounded-lg p-3 flex text-white bg-black border-gray-300"
             type="text"
             name="subject"
             placeholder="Subject"
@@ -62,7 +62,7 @@ const Contact = () => {
             Message
           </label>
           <textarea
-            className="border-2 rounded-lg p-3 bg-black border-gray-300"
+            className="border-2 rounded-lg p-3 text-white bg-black border-gray-300"
             rows="5                                                                                                                                                                                                                                                                                                                                                   "
             name="message"
             placeholder="Message"
