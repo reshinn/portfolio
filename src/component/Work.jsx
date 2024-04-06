@@ -21,7 +21,7 @@ const data = [
   
   {
     title: "Present Objective",
-    details:"Currently Now I'm really eager to dive back into my musical journey. It's been a bit of a pause, you know? So, I've been casually dropping hints about my aspirations and the little challenges I'm tackling, sort of like subtly seeking the  encouragements from all of you with love.     ---     And also here iam dropping some of my recent covers down below , checkitout guyz"    
+    details: "seeking for job oppertunities at good companies"
   
   }
 ];
